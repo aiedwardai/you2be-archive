@@ -1,4 +1,4 @@
-# youtube-podcast-archive
+# you2be-archive
 
 把一个 YouTube 访谈播客持续归档进私有仓 second-brain 的 skill：判新集、下载音频、300 秒分片 faster-whisper 转写、逐行中译并核验对齐、中文总结、四件套入仓并用 GitHub API 核验，最后挂每日 :38 错峰 cron 增量续更，无新集静默。
 
