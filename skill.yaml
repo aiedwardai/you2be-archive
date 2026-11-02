@@ -1,0 +1,5 @@
+name: local_youtube_podcast_archive
+title: YouTube 播客归档到 second-brain
+description: 把一个 YouTube 访谈播客持续归档进私有仓 second-brain：判新集、下载音频、分片转写、逐行中译、中文总结、四件套入仓核验并挂每日增量 cron。当用户说「归档这个主播」「归档这个播客」或给一个 YouTube 访谈链接要求长期归档时使用。
+category: Work and knowledge
+include_in_prompt: true
